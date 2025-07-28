@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# mypy, Pyright, and other tools
+.mypy_cache/
+.pyright/
+
+# pytest
+.cache/
+*.cover
+coverage.xml
+htmlcov/
+*.log
+
+# Mac/Linux/Windows OS files
+.DS_Store
+Thumbs.db
+
+# pipenv / poetry
+Pipfile.lock
+poetry.lock
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Installer logs
+pip-log.txt
+
+# Test output
+test-output/
+
+# SQLite DBs
+*.sqlite3
+*.db
+
+# Docker files
+*.pid
+
+# Other
+*.bak
+*.swp
+*.tmp
